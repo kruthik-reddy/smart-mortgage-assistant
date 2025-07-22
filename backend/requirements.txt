@@ -11,3 +11,6 @@ reportlab
 openpyxl
 xlsxwriter
 python-dotenv
+shap
+boto3
+scikit-learn
