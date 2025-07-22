@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+joblib
+xgboost
+numpy
+pandas
+openai
+shap
+requests
+reportlab
+openpyxl
+xlsxwriter
+python-dotenv
